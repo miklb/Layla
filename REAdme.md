@@ -1,6 +1,6 @@
 # Layla #
 
-A demo child theme for the [Mzingi 2](https://github.com/miklb/Mzingi_v2) framework, inspired by the WordPress theme [Yko](http://www.elmastudio.de/wordpress-themes/yoko/). All code and CSS has been rewritten for [Habari](http://habariproject.org) and my own preferences of markup, but fell it's important to reference regardless.
+A demo child theme for the [Mzingi 2](https://github.com/miklb/Mzingi_v2) framework, inspired by the WordPress theme [Yoko](http://www.elmastudio.de/wordpress-themes/yoko/). All code and CSS has been rewritten for [Habari](http://habariproject.org) and my own preferences of markup, but fell it's important to reference regardless.
 
 ## License ##
 [Apache Software License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
